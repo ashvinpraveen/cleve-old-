@@ -8,16 +8,16 @@ I've got a group of friends on discord who are helping me out, so that's pretty 
 
 yeah quite a rambly README, will probably update as the project goes on. 
 
-Day 1: 
+### Day 1: 
 - Installed node.js (and Next.JS I think)
 - Got a basic app structure setup for the backend (based on Next.js)
 
-Day 2: 
+### Day 2: 
 - Trying to get the API connection working
 - Testing with PostMan
 - Learning a bit more about how API's and backend stuff works.
 
-Day 3: 
+### Day 3: 
 We'll see.
 
 
